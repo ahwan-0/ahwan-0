@@ -3,18 +3,14 @@
 ![Alt text](imgi_31_0b1dfc8ebe6f365f4208cb0cff5c46c9.gif)
 
 
-
-<h3 align="center"> who is ahwan ?</h3>
 ---
-<p> ahwan is a nerd here creating somethinggg upppp and downn !</p>
+<h3 align="center"> what we do ?</h3>
 
-<div style="border: 2px solid black; border-top-right-radius: 20px; padding: 10px;">
-  Your content here
-</div>
+<p> Leaning towrads creativity, handling data, training model and devloping artifical intellegence here creating somethinggg upppp and downn !</p>
 
 
-
-<h3 align="center"> My Tech Stack </h3>
+ㅤㅤ
+<h4 align="center"> My Tech Stack </h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,postgres,github" />
@@ -29,38 +25,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
 </p>
 
-<!-- ⏳ Countdown
-
-
-<p align="center">
-  <b style="font-size:30px;">146</b> &nbsp;&nbsp;&nbsp;
-  <b style="font-size:30px;">20</b> &nbsp;&nbsp;&nbsp;
-  <b style="font-size:30px;">31</b> &nbsp;&nbsp;&nbsp;
-  <b style="font-size:30px;">22</b>
-</p>
-
-<p align="center">
-  DAYS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  HOURS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  MINUTES &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  SECONDS
-</p> -->
-
-<div style="display: flex; justify-content: space-between;">
-
+ㅤㅤ
+<h4 align="center"> The Darts </h4>
 <div>
 
-- [x] Setup project  
-- [ ] Model training  
+- [x] Genaxis Lifescience Prototype 
+- [ ] Genaxis Lifescience Product Launch
 
 </div>
 
 <div>
 
-- [x] Data cleaning  
-- [ ] Deployment  
+- [ ] Enhanced Contextual Heuristic Oracle
+- [ ] Just a rather very intelligent system  
 
 </div>
 
 </div>
+ㅤㅤ
+
+<!-- <h4 align="center"> discover more of me as you go down  </h4> --!
 
