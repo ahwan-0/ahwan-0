@@ -43,6 +43,7 @@
 
 </div>
 ㅤㅤ
+<h4 align="center"> Open to Freelance and Contracts  |  Explore my work as you go down </h4>
 
 <!-- <h4 align="center"> discover more of me as you go down  </h4> --!
 
