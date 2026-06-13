@@ -4,9 +4,9 @@
 
 
 ---
-<h3 align="center"> what we do ?</h3>
+<h3 align="center"> what i do ?</h3>
 
-<p> Leaning towrads creativity, handling data, training model and devloping artifical intellegence here creating somethinggg upppp and downn !</p>
+<p> I Lean in towrads creativity, handling data, training model and devloping infras. Building something fascinating standing at the edge of the unknown !</p>
 
 
 ㅤㅤ
