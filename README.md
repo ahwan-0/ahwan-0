@@ -6,7 +6,7 @@
 ---
 <h3 align="center"> what i do ?</h3>
 
-<p> I Lean in towrads creativity, handling data, training model and devloping infras. Building something fascinating standing at the edge of the unknown !</p>
+<p> Leaning towrads creativity, handling data, training model and devloping infras. Building something fascinating standing at the edge of the unknown !</p>
 
 
 ㅤㅤ
